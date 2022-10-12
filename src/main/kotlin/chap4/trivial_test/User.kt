@@ -1,4 +1,5 @@
 package chap4.trivial_test
 
-class User {
-}
+data class User(
+    val name: String = ""
+)
