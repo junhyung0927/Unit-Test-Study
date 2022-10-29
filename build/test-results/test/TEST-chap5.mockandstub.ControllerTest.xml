@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="chap5.mockandstub.ControllerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-29T10:22:22" hostname="Junhyungui-MacBookPro.local" time="1.163">
+  <properties/>
+  <testcase name="Mock 라이브러리에서 Mock 클래스를 사용해 목을 생성" classname="chap5.mockandstub.ControllerTest" time="1.163"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
