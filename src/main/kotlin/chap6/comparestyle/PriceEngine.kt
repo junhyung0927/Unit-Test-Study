@@ -1,4 +1,4 @@
-package chap6
+package chap6.comparestyle
 
 import chap2.Product
 import kotlin.math.min

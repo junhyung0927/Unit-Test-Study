@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="chap6.comparestyle.ArticleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-31T06:51:42" hostname="Junhyungui-MacBookPro.local" time="0.021">
+  <properties/>
+  <testcase name="adding_a_comment_to_an_article3()" classname="chap6.comparestyle.ArticleTest" time="0.021"/>
+  <system-out><![CDATA[[Comment(text=Comment Text, author=John Doe, dateCreated=2022-10-31)]
+Comment(text=Comment Text, author=John Doe, dateCreated=2022-10-31)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
