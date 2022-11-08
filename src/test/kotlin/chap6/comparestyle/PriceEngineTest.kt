@@ -1,7 +1,6 @@
 package chap6.comparestyle
 
 import chap2.Product
-import chap6.comparestyle.PriceEngine
 import org.junit.jupiter.api.Test
 import kotlin.test.assertEquals
 

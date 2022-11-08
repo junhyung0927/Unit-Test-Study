@@ -24,9 +24,9 @@ class AuditManagerTest {
         whenever(fileSystemMock.readAllLines("/Users/junhyung/fileExample/audit_2.txt"))
             .thenReturn(
                 mutableListOf(
-                    "jun; 2022-11-07",
-                    "jun; 2022-11-07",
-                    "jun; 2022-11-07"
+                    "jun; 2022-11-08",
+                    "jun; 2022-11-08",
+                    "jun; 2022-11-08"
                 )
             )
         val sut = AuditManager(3, "/Users/junhyung/fileExample", fileSystemMock)
@@ -35,7 +35,7 @@ class AuditManagerTest {
 
         verify(fileSystemMock).writeAllText(
             "/Users/junhyung/fileExample/audit_3.txt",
-            "jun; 2022-11-07"
+            "jun; 2022-11-08"
         )
 
     }

@@ -23,7 +23,7 @@ class AuditManagerTest {
             ),
         )
 
-        val update = sut.addRecord(files, "jun", LocalDate.now())
+        val update: FileUpdate = sut.addRecord(files, "jun", LocalDate.now())
 
         assertEquals("audit_3.txt", update.fileName)
         assertEquals("jun; 2022-11-07", update.newContent)

@@ -15,7 +15,6 @@ class ApplicationService(
 
         val files: List<FileContent>? = _persister.readDirectory(_directoryName)
 
-
         val update: FileUpdate = _auditManager.addRecord(
             files, visitorName, timeOfVisit
         )
