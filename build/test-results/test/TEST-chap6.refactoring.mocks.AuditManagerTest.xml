@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="chap6.refactoring.mocks.AuditManagerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-11-08T07:06:49" hostname="jojunhyeong-ui-iMac.local" time="0.709">
-  <properties/>
-  <testcase name="현재 파일의 항목 수가 세 개에 도달 했을 때, 감사 항목이 하나 있는 새 파일을 생성하는지에 대한 검증" classname="chap6.refactoring.mocks.AuditManagerTest" time="0.709"/>
-  <system-out><![CDATA[audit_2.txt
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
