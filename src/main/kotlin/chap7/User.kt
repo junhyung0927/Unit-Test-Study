@@ -3,6 +3,7 @@ package chap7
 import chap7.step3.Company
 import chap7.step3.Company.Companion.EMAIL_DELIMITER
 
+
 data class User(
     var userId: Int,
     var email: String,

@@ -1,0 +1,4 @@
+Qsave User(userId=0, email=user@naver.com, type=Employee, isEmailConfirmed=false)
+1save Company(domainName=TR, numberOfEmployees=1)
+1save Company(domainName=TR, numberOfEmployees=1)
+Msave User(userId=0, email=new@TR.com, type=Customer, isEmailConfirmed=false)

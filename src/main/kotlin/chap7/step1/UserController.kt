@@ -2,10 +2,7 @@ package chap7.step1
 
 import chap7.Database
 import chap7.MessageBus
-import chap7.User
-import chap7.UserType
 import chap7.step2.UserFactory
-import chap7.step3.Company
 import chap7.step3.CompanyFactory
 
 class UserController {
@@ -74,7 +71,6 @@ class UserController {
         return "OK"
 
     }
-
 
 
 }

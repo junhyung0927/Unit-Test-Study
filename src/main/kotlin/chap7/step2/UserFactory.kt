@@ -3,6 +3,7 @@ package chap7.step2
 import chap7.User
 import chap7.UserType
 
+
 class UserFactory {
 
     companion object {
